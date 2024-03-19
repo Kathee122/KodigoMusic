@@ -1,0 +1,57 @@
+{
+    "canciones": [
+        {
+            "autor": "Adele",
+            "canciones": [
+                "Rolling in the deep",
+                "Easy on me",
+                "Someone like you"
+            ]
+        },
+        {
+            "autor": "Dua Lipa",
+            "canciones": [
+                "Training Seasons",
+                "Physical",
+                "Break my heart"
+            ]
+        },
+
+        {
+            "autor": "Selena Gomez",
+            "canciones": [
+                "Love on",
+                "Slow down",
+                "Lose you to love me"
+            ]
+        },
+
+        {
+            "autor": "Blackpink",
+            "canciones": [
+                "Pink venom",
+                "Kill this love",
+                "How you like that"
+            ]
+        },
+
+        {
+            "autor": "BTS",
+            "canciones": [
+                "Fake love",
+                "Dynamite",
+                "Boy with love"
+            ]
+        },
+
+
+        {
+            "autor": "Ariana Grande",
+            "canciones": [
+                "yes, and?",
+                "We can't friends",
+                "God is a woman"
+            ]
+        }
+    ]
+}

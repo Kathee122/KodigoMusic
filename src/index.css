@@ -1,0 +1,57 @@
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #272727;
+}
+
+
+.main{
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em 0em;
+}
+.audio{
+  width: 250px;
+  height: 375px;
+  display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	margin-bottom: 2rem;
+  justify-content: center;
+  align-items: center;
+  padding: 0.1em;
+  background-color: #0c3961;
+  color: white;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
+  flex: 1 1 250px;
+  margin: 1em;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+	cursor: pointer;
+	position: relative;
+
+
+}
+.audio img{
+  width: 150px;
+  height: 200px;
+  margin: 0.5em;
+  overflow: hidden;
+}
+.audio h2{
+  font-weight: 500;
+  font-size: medium;
+  margin: 0.5em;
+}
+.audio p{
+  font-size: small;
+  font-weight: 300;
+  text-align: center;
+  margin: 0.5em;
+}
+
