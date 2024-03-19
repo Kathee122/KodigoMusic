@@ -50,7 +50,7 @@ export const Home = () => {
     <div className="main">
     <div className="audio dark">
         <img src="https://musicandote.com/wp-content/uploads/2016/02/adele-1.jpg" alt=""/>
-        <h2>Adele</h2>
+        <h2>Adele </h2>
         <p>Your daily update of the most played tracks right now - India.</p>
         <button className='btn btn-dark' onClick={() => cancionesByArtista('Adele')}>Canciones</button>
     </div>
